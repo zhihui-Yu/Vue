@@ -13,7 +13,7 @@
     "axios": "^0.19.2",
     "babel-runtime": "^6.26.0",
     "pull-to-refresh": "^1.2.3",
-    "swiper": "^5.3.6",
+    "swiper": "^6.5.1",
     "vue": "^2.5.2",
     "vue-awesome-swiper": "^4.0.4",
     "vue-pull-refresh": "^0.2.7",
